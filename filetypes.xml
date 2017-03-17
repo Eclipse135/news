@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="visitors" type="JSON" />
+      <mapping pattern="test" type="JSON" />
       <mapping pattern="total_visitors" type="XML" />
     </extensionMap>
   </component>
